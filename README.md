@@ -1,6 +1,5 @@
-# Stock-Price-Exploratory-Data-Analysis
-Performed exploratory data analysis on stock price data, including data cleaning, summary statistics, correlation analysis, and visualization using histograms, boxplots, and scatter plots to identify trends, patterns, and relationships.
 # Stock Price Exploratory Data Analysis (EDA)
+Performed exploratory data analysis on stock price data, including data cleaning, summary statistics, correlation analysis, and visualization using histograms, boxplots, and scatter plots to identify trends, patterns, and relationships.
 
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on a stock price dataset to understand the structure of the data, identify patterns, detect outliers, and analyze relationships between variables such as Open, High, Low, Close, and Volume.
